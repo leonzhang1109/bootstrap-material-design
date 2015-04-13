@@ -1,0 +1,14 @@
+Hi Leon,
+
+I found this package on Atmosphere at https://atmospherejs.com/leonzhang1109/bootstrap-material-design
+
+It looks identical to the original package you forked it from.
+
+Have you added any features that justify publishing this clone of the package on Atmosphere?
+
+If it was a mistake, you can easily correct it by running
+
+    meteor admin set-unmigrated leonzhang1109:bootstrap-material-design
+ 
+Thank you,
+Dan
